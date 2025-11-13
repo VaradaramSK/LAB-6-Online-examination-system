@@ -16,20 +16,23 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+## USE CASE
+![379117996-6fd644f6-51cd-428c-9b52-54e88c9710ba](https://github.com/user-attachments/assets/fbd11dc9-3aa8-42e3-8faf-efbe42142050)
 
-## USE CASE DIAGRAM:
-![281252687-9f321813-732e-41de-8920-76a982181f7a](https://github.com/AdhithiyanK/LAB-6-Online-examination-system/assets/121029258/1f168078-8495-4a08-bf10-f8323d027fca)
-## CLASS DIAGRAM:
-![281252735-c8e4d312-2ae5-4214-b78e-57c2e529c20e](https://github.com/AdhithiyanK/LAB-6-Online-examination-system/assets/121029258/c3b92f3a-ed3d-4ca3-94b5-f0439a170117)
-## SEQUENCE DIAGRAM:
-![281252804-f55f9e9e-f63d-4a1b-b3f6-214b644902a7](https://github.com/AdhithiyanK/LAB-6-Online-examination-system/assets/121029258/2e63cf22-da74-4208-ac5d-3f4f5ab7e3f1)
-## COMMUNICATION DIAGRAM:
-![281253084-e0a22edf-d5f3-4e7b-b8c2-8fce42590f33](https://github.com/AdhithiyanK/LAB-6-Online-examination-system/assets/121029258/aadd69a1-a28e-476a-b067-234219c314a9)
-## ACTIVITY DIAGRAM:
-![281253156-4a61ecce-1028-4714-825d-df4287ba95f8](https://github.com/AdhithiyanK/LAB-6-Online-examination-system/assets/121029258/12b6669a-76f6-4719-953b-587e99b4cb9c)
-## PACKAGE DIAGRAM:
-![281255252-a6008039-62bc-41d9-9001-ee99bd63115f](https://github.com/AdhithiyanK/LAB-6-Online-examination-system/assets/121029258/c0e2aa18-f9a0-4ca4-91ed-33472df6013d)
+## CLASS DIAGRAM
+![379118038-95254e31-84a3-4c19-9626-fb3b3bffd8b0](https://github.com/user-attachments/assets/6590e0f2-46e0-4a50-83c6-2426ca93b711)
 
+## ACTIVITY DIAGRAM
+![379118084-a18c8b03-2b2a-49d8-8664-30afd2c32468](https://github.com/user-attachments/assets/152ab220-c680-47d5-836f-091fc67aeaf6)
+
+## PACKAGE DIAGRAM
+![379118128-5db2d0d9-1870-4eb4-bdf4-1f8ab18bd707](https://github.com/user-attachments/assets/6bb3a163-9351-4577-8734-4b5069664eb4)
+
+## COMMUNICATION DIAGRAM
+![379118162-fb573fa9-eda4-4baf-9010-80e48f35b2ea](https://github.com/user-attachments/assets/31eb4b9b-0fd3-45c6-95f5-fe8653386c41)
+
+## SEQUENCE DIAGRAM
+![379118210-7df1efca-ee01-4ea3-8501-9d7854f1823a](https://github.com/user-attachments/assets/11f8b8e6-e2db-40dd-972f-a3641d112dd9)
 
 ### RESULT:
 Thus the project to develop Exam Registration system was developed using Star UML
